@@ -1,0 +1,12 @@
+{
+	"name": "Java development environment",
+	"context": "./context",
+	"dockerFile": "./context/Dockerfile",
+	"settings": { 
+		"telemetry.enableTelemetry": false,
+		"telemetry.enableCrashReporter": false
+	},
+	"extensions": [
+	],
+	"containerUser": "java"
+}
