@@ -7,6 +7,7 @@
 		"telemetry.enableCrashReporter": false
 	},
 	"extensions": [
+		"vscjava.vscode-java-pack"
 	],
 	"containerUser": "java"
 }
